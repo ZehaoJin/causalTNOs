@@ -15,7 +15,9 @@
 
 
 ## 2. Code
+Self-explanatory jupyter notebook:
 [TNO_paper_0324.ipynb](https://github.com/ZehaoJin/causalTNOs/blob/main/TNO_paper_0324.ipynb)
+
 You might need following python packages:
 
       causallearn
