@@ -1,6 +1,6 @@
 # causalTNOs
 
-### [Paper: Causal evidence for the primordiality of colours in trans-Neptunian objects](https://doi.org/10.1093/mnrasl/slaf089), Monthly Notices of the Royal Astronomical Society: Letters
+### [Paper: Causal evidence for the primordiality of colours in trans-Neptunian objects](https://doi.org/10.1093/mnrasl/slaf089)
 ### [1. Data](#1-data-1)
 ### [2. Code](#2-code-1)
 ### [3. Cite this work](#3-cite-this-work-1)
